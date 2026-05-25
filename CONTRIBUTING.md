@@ -31,3 +31,13 @@ When opening an issue, include the details that make the report clear and action
 Documentation-only pull requests may be accepted.
 
 Do not include private implementation details, secrets, copyrighted catalog dumps, backend details, deployment details, or internal architecture.
+
+## Developer collaboration
+
+Scanlines is not currently open source, and this repository does not accept code pull requests.
+
+The project may consider private collaboration with developers who are interested in the product.
+
+Contact:
+
+- askjato@gmail.com

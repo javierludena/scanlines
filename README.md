@@ -57,3 +57,13 @@ Use it for:
 - Public project documentation
 
 The Scanlines application source code is not currently open source. This repository does not contain the production app code, backend code, private infrastructure, or internal implementation details.
+
+## Developer collaboration
+
+Scanlines is not currently open source, and this repository does not accept code pull requests.
+
+The project may consider private collaboration with developers who are interested in the product.
+
+Contact:
+
+- askjato@gmail.com

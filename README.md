@@ -23,6 +23,26 @@ Scanlines is in active development.
 - Record edition, condition, region, and notes
 - Browse collections through a visual interface
 
+## Project goals
+
+Scanlines is built around collectors and their actual game copies, not only generic game entries.
+
+The current goals are:
+
+- Make collection tracking faster and less spreadsheet-like
+- Treat photos and visual browsing as core parts of the collection experience
+- Support physical collecting details without turning the app into a dashboard
+- Build a curated catalog with community feedback and corrections
+- Grow carefully through collector feedback before focusing on scale
+
+## Funding and monetization
+
+Scanlines is not monetized in its current version.
+
+The current priority is product quality, catalog coverage, and user feedback. A future business model may be considered later, but there are no current paid tiers or paywalls.
+
+If optional paid features are introduced in the future, the intent is to add new capabilities rather than charge retroactively for features already available today.
+
 ## About this repository
 
 This repository is the public project hub for Scanlines.

@@ -1,0 +1,47 @@
+name: Platform request
+description: Request support or better coverage for a game platform.
+title: "[Platform]: "
+labels:
+  - platform
+  - catalog
+body:
+  - type: input
+    id: platform-name
+    attributes:
+      label: Platform name
+      placeholder: "Example: PlayStation 2"
+    validations:
+      required: true
+  - type: input
+    id: region
+    attributes:
+      label: Region
+      placeholder: "Example: Europe, Japan, North America, worldwide"
+  - type: textarea
+    id: why-it-matters
+    attributes:
+      label: Why it matters
+      description: Explain why this platform matters to collectors.
+    validations:
+      required: true
+  - type: textarea
+    id: example-games
+    attributes:
+      label: Example games
+      description: List a few representative games.
+  - type: dropdown
+    id: physical-digital-relevance
+    attributes:
+      label: Physical/digital relevance
+      options:
+        - Mostly physical
+        - Mostly digital
+        - Both physical and digital
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: editions-barcodes-variants
+    attributes:
+      label: Notes about editions, barcodes or variants
+      description: Add details about editions, barcodes, variants, regional releases, or collector-specific distinctions.

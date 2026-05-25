@@ -12,4 +12,4 @@ https://scanlines.app
 
 Report security issues privately by email:
 
-security@scanlines.app
+askjato@gmail.com

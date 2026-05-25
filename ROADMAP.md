@@ -18,14 +18,15 @@ This roadmap describes the current public direction for Scanlines. It is not a c
 - Wishlist improvements
 - More platform data
 - Collection browsing refinements
+- Collection import and export
 
 ## Planned
 
 - iOS version
-- Collection import and export
 - Advanced statistics
 - Expanded platform support
 - Improved catalog correction flow
+- Official scanlines.app email addresses for support and security
 
 ## Under consideration
 

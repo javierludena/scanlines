@@ -6,7 +6,7 @@ Do not open a public GitHub issue for security problems.
 
 Security contact:
 
-- security@scanlines.app
+- askjato@gmail.com
 
 ## Scope
 

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/brand/scanlines-icon.png" alt="Scanlines icon" width="96">
+</p>
+
 # Scanlines
 
 Scanlines is a visual collection app for video game collectors.
